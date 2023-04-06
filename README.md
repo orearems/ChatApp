@@ -1,3 +1,12 @@
+Family Chat App
+Welcome to the Family Chat App, a simple messaging app designed for families to stay connected and share important moments with each other.
+
+Features
+User-friendly interface for easy communication with family members.
+Create group chats with multiple family members.
+Share teexts and emoji with ease.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
